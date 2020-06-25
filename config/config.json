@@ -1,0 +1,6 @@
+{
+  "DEFAULT": {
+    "MYLOGIN": "здесь адрес почты на яндекс",
+    "MYPASSWORD": "здесь пароль от почты",
+    "URL": "https://yandex.ru",
+    "FROM_HUMAN": "Здесь имя отправителя (см. пример в папке screenshots)"}}

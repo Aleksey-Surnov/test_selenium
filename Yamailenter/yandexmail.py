@@ -63,7 +63,7 @@ class Gotoyamail():
                                          value='/html/body/div[1]/div[2]/div[2]/form/div[4]/span[2]/span[2]/a/span/i').click()
             else:
                 return False
-        except NoSuchElementException:                                              # Все на одной странице. Обрабатываем исклюючение: "элемент пагинации не найден".
+        except NoSuchElementException:                                              # Все на одной странице. Обрабатываем исключение: "элемент пагинации не найден".
             return False
         return True
 
